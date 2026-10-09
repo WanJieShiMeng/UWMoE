@@ -137,3 +137,5 @@ python main.py
 ```
 
 Restored images and quantitative results are saved under `output/`.
+
+**Acknowledgment:** This code is based on the [MP-HSIR](https://github.com/ZhehuiWu/MP-HSIR) repository.
